@@ -1,0 +1,17 @@
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\bin\Debug\Ribbon.dll
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\bin\Debug\Ribbon.pdb
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\obj\Debug\Ribbon.FrmAbout.resources
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\obj\Debug\Ribbon.FrmTestHttp.resources
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\obj\Debug\Ribbon.csproj.GenerateResource.Cache
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\obj\Debug\Ribbon.csproj.CoreCompileInputs.cache
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\obj\Debug\Ribbon.dll
+C:\Users\aserfend\Documents\Tencent Files\331945833\FileRecv\ExcelDna-Samples-master 0.34\Samples-master\Ribbon\obj\Debug\Ribbon.pdb
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\bin\Debug\aserfend.dll
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\bin\Debug\aserfend.pdb
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\obj\Debug\Ribbon.FrmAbout.resources
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\obj\Debug\Ribbon.FrmTestHttp.resources
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\obj\Debug\Ribbon.QueryExpress.FrmCancel.resources
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\obj\Debug\Ribbon.csproj.GenerateResource.Cache
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\obj\Debug\Ribbon.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\obj\Debug\aserfend.dll
+D:\aserfend\workSpace\repos\projects\ExcelDNA\Ribbon\obj\Debug\aserfend.pdb
